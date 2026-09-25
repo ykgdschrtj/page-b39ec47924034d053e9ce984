@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.r32ojd.cn/sitemap.xml
